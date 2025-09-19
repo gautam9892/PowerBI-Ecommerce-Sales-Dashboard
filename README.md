@@ -29,7 +29,7 @@ It highlights how raw data can be transformed into meaningful insights that driv
 
 Here’s the end-to-end workflow of how the data flows through this project:  
 
-![Data Workflow](assets/ecommerce_data_workflow_dark.png)
+![Data Workflow](02_Images/Ecommerce_data_workflow.png)
 
 
 
@@ -45,8 +45,8 @@ Here’s the end-to-end workflow of how the data flows through this project:
 
 
 ## 📂 Project Files
-- `E-Commerce_Sales_Dashboard.pbix` → Power BI report file  
-- `Sales_Data.csv` → Source data file  
+- `E-Commerce_Sales Dashboard.pbix` → Power BI report file  
+- `Ecommerce_data.csv` , `us_state_long_lat_codes.csv` → Source data file  
 
 
 
@@ -57,7 +57,7 @@ Here’s the end-to-end workflow of how the data flows through this project:
 
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](assets/dashboard-preview.png)  
+![Dashboard Screenshot](02_Images/dashboard-preview.png)  
 
 
 
