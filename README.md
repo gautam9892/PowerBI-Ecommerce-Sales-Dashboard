@@ -51,8 +51,8 @@ Here’s the end-to-end workflow of how the data flows through this project:
 
 
 ## 🌐 Live Demo
-- GitHub Repository: [https://github.com/gautam9892/PowerBI-Ecommerce-Sales-Dashboard](https://github.com/gautam9892/PowerBI-Ecommerce-Sales-Dashboard)  
-- Live Dashboard: *https://tinyurl.com/muzk9dyd*  
+- GitHub Repository:  *https://github.com/gautam9892/PowerBI-Ecommerce-Sales-Dashboard*
+- Live Dashboard:  *https://tinyurl.com/muzk9dyd*  
 
 
 
